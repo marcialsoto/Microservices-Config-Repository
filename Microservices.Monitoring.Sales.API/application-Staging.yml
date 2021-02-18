@@ -1,0 +1,2 @@
+ConnectionStrings: 
+    MicroservicesMonitoringConnection: Data Source=.;Initial Catalog=Microservices.Staging;User ID=stage;Password=Password1234
